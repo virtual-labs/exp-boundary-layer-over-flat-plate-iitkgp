@@ -3,11 +3,11 @@
 <b>Discipline | <b> Aerospace Engineerig
 :--|:--|
 <b> Lab | <b> Aerodyamics Lab
-<b> Experiment|     <b> Flow plate boundary layer and Experiment 5
+<b> Experiment|     <b> Velocity profile of a laminar boundary layer and Experiment 5
 
 ### About the Experiment 
 
-To study the principle and dependent parameters of advanced welding processes like laser welding and friction stir welding.
+To obtain the velocity profile and calculate the displacement thickness and momentum thickness for a laminar boundary layer over the flat plate.
 
 # Subject Matter Experts
 | SNo. | Name | Email | Department | Institute | Profile |
