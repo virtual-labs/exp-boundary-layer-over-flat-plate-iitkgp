@@ -60,9 +60,10 @@ Further,
 P is constant throughout the boundary layer. Therefore, the boundary layer displacement and momentum thickness can be estimated by replacing the velocity ratio in equations 1 and 2 with the above equation and using the Trapezoidal rule for integration. The total pressure can be measured using a pitot boundary layer probe.
 
 ## Apparatus
-•	Airflow bench
-•	Multi-tube manometer
-•	Flat plate-boundary layer attachment
+
+- Airflow bench
+- Multi-tube manometer
+- Flat plate-boundary layer attachment
 
 ## Airflow bench
 
