@@ -70,7 +70,7 @@ P is constant throughout the boundary layer. Therefore, the boundary layer displ
  
 
 <center>
-<img src="./images/Fig2.jpg" style="width:50%;">
+<img src="./images/Fig2.jpg" style="width:32%;">
 
 #### Figure 2
 </center>
@@ -82,7 +82,7 @@ An airflow bench is a small-scale wind tunnel. It is a vertical flow, blow-down 
  
 
 <center>
-<img src="./images/Fig3.jpg" style="width:50%;">
+<img src="./images/Fig3.jpg" style="width:32%;">
 
 #### Figure 3
 </center>
@@ -94,7 +94,7 @@ A multi-tube manometer is a manometer that is capable of acquiring multiple numb
  
 
 <center>
-<img src="./images/Fig4.png" style="width:50%;">
+<img src="./images/Fig4.png" style="width:32%;">
 
 #### Figure 4
 </center>
