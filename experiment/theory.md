@@ -60,16 +60,17 @@ Further,
 P is constant throughout the boundary layer. Therefore, the boundary layer displacement and momentum thickness can be estimated by replacing the velocity ratio in equations 1 and 2 with the above equation and using the Trapezoidal rule for integration. The total pressure can be measured using a pitot boundary layer probe.
 
 ## Apparatus
-•	Airflow bench
-•	Multi-tube manometer
-•	Flat plate-boundary layer attachment
+
+- Airflow bench
+- Multi-tube manometer
+- Flat plate-boundary layer attachment
 
 ## Airflow bench
 
  
 
 <center>
-<img src="./images/Fig2.jpg" style="width:50%;">
+<img src="./images/Fig2.jpg" style="width:32%;">
 
 #### Figure 2
 </center>
@@ -81,7 +82,7 @@ An airflow bench is a small-scale wind tunnel. It is a vertical flow, blow-down 
  
 
 <center>
-<img src="./images/Fig3.jpg" style="width:50%;">
+<img src="./images/Fig3.jpg" style="width:32%;">
 
 #### Figure 3
 </center>
@@ -93,7 +94,7 @@ A multi-tube manometer is a manometer that is capable of acquiring multiple numb
  
 
 <center>
-<img src="./images/Fig4.png" style="width:50%;">
+<img src="./images/Fig4.png" style="width:32%;">
 
 #### Figure 4
 </center>
