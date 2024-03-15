@@ -1,39 +1,61 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "The streamwise velocity in the direction normal from the wall",
+        "answers": {
+          "a": " Decreases ",
+          "b": " Remains constant ",
+          "c": " Increases up to the freestream value ",
+          "d": " None of the above "
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "What happens to the thickness of the laminar boundary layer as distance along the surface increases?",
+        "answers": {
+          "a": "It increases",
+          "b": "It decreases",
+          "c": "Doesn’t change",
+          "d": "All the above"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      {
+        "question": "In laminar boundary layer flow, the velocity profile is typically:",
+        "answers": {
+          "a": "Parabolic",
+          "b": "Exponential",
+          "c": "None of the above",
+          "d": "Both a and b"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "The thickness of the laminar boundary layer is primarily influenced by:",
+        "answers": {
+          "a": "Surface roughness",
+          "b": "Flow velocity",
+          "c": "Temperature gradient",
+          "d": "Reynolds number"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+      {
+        "question": " The momentum thickness increases with:",
+        "answers": {
+          "a": "Increasing boundary layer thickness",
+          "b": "Decreasing fluid viscosity",
+          "c": "Increasing boundary layer thickness",
+          "d": "Decreasing Reynolds number"        
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
