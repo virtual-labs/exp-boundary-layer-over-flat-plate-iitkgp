@@ -3,7 +3,7 @@
 <b>Discipline | <b> Aerospace Engineerig
 :--|:--|
 <b> Lab | <b> Aerodyamics Lab
-<b> Experiment|     <b> Velocity profile of a laminar boundary layer and Experiment 5
+<b> Experiment|     <b> Boundary layer over a flat plate and Experiment 5
 
 ### About the Experiment 
 
