@@ -1,6 +1,6 @@
 # Procedure
 
-1. Fix the flap plate attachment and the boundary layer probe in the test section of the Airflow bench.
+1. Fix the flat plate attachment and the boundary layer probe in the test section of the Airflow bench.
 
 2. Ensure the boundary layer probe is placed in a proper orientation, with the pitot head facing the inlet of the test section.
 
