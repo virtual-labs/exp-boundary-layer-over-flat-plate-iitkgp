@@ -9,37 +9,7 @@ A boundary layer is adjacent to a surface where viscous effects are important. F
 #### Figure 1
 </center>
 
-Assume δ as the thickness where the streamwise velocity reaches 0.99u<sub>0</sub>. Let us consider a height h reasonably larger than δ. The following derivation can, therefore, give the displacement thickness (δ*)
-
-<center>
-<img src="./images/Eq1.png" style="width:20%;">
-</center>
-
-The mass flow defect due to the displacement can be given by
-
-<center>
-<img src="./images/Eq2.png" style="width:20%;">
-</center>
-
-Further,
-
-<center>
-<img src="./images/Eq3.png" style="width:20%;">
-</center>
-
-Boundary layer displacement thickness can be given by the following equation 1:
-
-<center>
-<img src="./images/Eq4.png" style="width:20%;">
-</center>
-
-The second important parameter is the momentum thickness (θ). It represents the height of the freestream flow, which would be needed to compensate for the deficiency in momentum flux within the boundary layer due to the shear force at the surface. The momentum thickness for an incompressible boundary layer is given by the following equation 2: 
-
-<center>
-<img src="./images/Eq5.png" style="width:20%;">
-</center>
-
-We know that for a point outside the boundary layer,
+Assume δ as the thickness where the streamwise velocity reaches 0.99u<sub>0</sub>. We know that for a point outside the boundary layer,
 
 <center>
 <img src="./images/Eq6.png" style="width:20%;">
@@ -57,7 +27,10 @@ Further,
 <img src="./images/Eq8.png" style="width:20%;">
 </center>
 
-P is constant throughout the boundary layer. Therefore, the boundary layer displacement and momentum thickness can be estimated by replacing the velocity ratio in equations 1 and 2 with the above equation and using the Trapezoidal rule for integration. The total pressure can be measured using a pitot boundary layer probe.
+P<sub>∞</sub> is constant throughout the boundary layer. The total pressure can be measured using a pitot boundary layer probe. Therefore, the boundary layer displacement thickness can be estimated by replacing the velocity ratio in equations 1 with the above equation and using the Trapezoidal rule for integration.
+
+In this experiment we measure the total pressure (P) using a pitot probe. We first measure the pressure P<sub>0</sub> in the freestream and then measure P(y) by traversing the probe with the help of  a micrometer. We measure the boundary layer thickness at the point at which the P(y) is is equal to  P<sub>0</sub> corresponding to 0.95U<sub>∞</sub>.
+
 
 ## Apparatus
 
