@@ -1,0 +1,61 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "The streamwise velocity in the direction normal from the wall",
+        "answers": {
+          "a": " Decreases ",
+          "b": " Remains constant ",
+          "c": " Increases up to the freestream value ",
+          "d": " None of the above "
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "What happens to the thickness of the laminar boundary layer as distance along the surface increases?",
+        "answers": {
+          "a": "It increases",
+          "b": "It decreases",
+          "c": "Doesn’t change",
+          "d": "All the above"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "In laminar boundary layer flow, the velocity profile is typically:",
+        "answers": {
+          "a": "Parabolic",
+          "b": "Exponential",
+          "c": "None of the above",
+          "d": "Both a and b"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The thickness of the laminar boundary layer is primarily influenced by:",
+        "answers": {
+          "a": "Surface roughness",
+          "b": "Flow velocity",
+          "c": "Temperature gradient",
+          "d": "Reynolds number"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      },
+      {
+        "question": " The momentum thickness increases with:",
+        "answers": {
+          "a": "Increasing boundary layer thickness",
+          "b": "Decreasing fluid viscosity",
+          "c": "Increasing boundary layer thickness",
+          "d": "Decreasing Reynolds number"        
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  

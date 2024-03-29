@@ -1,0 +1,61 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "The boundary layer is formed as the flowing fluid comes in contact with a solid surface be-cause of the",
+        "answers": {
+          "a": "Gravitational force",
+          "b": "Viscosity",
+          "c": "Atmospheric pressure",
+          "d": "Surface tension"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The boundary layer thickness is where the streamwise flow velocity is",
+        "answers": {
+          "a": "0.99U<sub>∞</sub>",
+          "b": "0.9U<sub>∞</sub>",
+          "c": "0.5U<sub>∞</sub>",
+          "d": "1.99U<sub>∞</sub>"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The maximum boundary layer thickness in the pipe of radius r can be",
+        "answers": {
+          "a": "0",
+          "b": "2r",
+          "c": "r/2",
+          "d": "r"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The boundary layer separates when the pressure gradient in the streamwise direction becomes",
+        "answers": {
+          "a": "Positive",
+          "b": "Negative",
+          "c": "Zero",
+          "d": "None of the above"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Which of the following statements best describes a laminar boundary layer?",
+        "answers": {
+          "a": "It exhibits chaotic and irregular flow patterns.",
+          "b": "Turbulent eddies dominate the flow behavior.",
+          "c": "Flow is smooth and ordered, with fluid particles moving in parallel layers.",
+          "d": "High levels of kinetic energy characterize the flow."
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
