@@ -1,36 +1,48 @@
 # Theory:
 
-A boundary layer is adjacent to a surface where viscous effects are important. Figure 1 illustrates a stationary 2-D channel in a channel over a flat plate with a freestream velocity of u<sub>0</sub>. Here, fluid flows along the interior wall inside a channel with width H and a time-averaged velocity denoted as <i>u(X, Y)</i>, with X representing the flow direction and Y normal to the wall. The fluid near the wall surface has a lower velocity than the freestream. The no-slip condition enforced by the wall surface retards the flow to zero velocity, and the streamwise velocity in the direction perpendicular to the wall keeps rising until it reaches the freestream velocity. In cases where the wall-to-wall distance H is smaller than the viscous boundary layer thickness, the velocity profile u(X, Y) at X for all Y assumes a parabolic shape u<sub>e</sub>(X) in the Y-direction, with the boundary layer thickness equaling H/2. The vertical distance from the wall surface, fluid flow takes for the streamwise velocity to reach 99% of the freestream velocity is the boundary layer thickness.
+When a fluid flows over a solid body, the no-slip condition at the surface causes the fluid velocity at the wall to be zero relative to the surface. Moving away from the wall, the velocity gradually increases until it reaches the free-stream value. The thin region adjacent to the surface in which velocity gradients are significant is called the boundary layer. Figure 1 illustrates a stationary 2-D channel in a channel over a flat plate with freestream velocity of . Here fluid flows along the interior wall inside a channel with width H and a time-averaged velocity denoted as , with X representing the flow direction and Y normal to the wall. Fluid in the vicinity of the wall surface has a low velocity compared to the freestream. The no-slip condition enforced by the wall surface retards the flow to zero velocity and the streamwise velocity in the direction perpendicular to the wall keeps rising until it reaches the freestream velocity. In cases where the wall-to-wall distance H is smaller than the viscous boundary layer thickness, the velocity profile  at X for all Y assumes a parabolic shape  in the Y-direction, with the boundary layer thickness equaling H/2. The vertical distance from the wall surface, fluid flow takes for the streamwise velocity to reach 99% of the freestream velocity is the boundary layer thickness.
 
  
 <center>
-<img src="./images/Fig1.jpg" style="width:50%;">
+<img src="./images/Fig1.png" style="width:45%;">
 
 #### Figure 1
 </center>
 
-Assume δ as the thickness where the streamwise velocity reaches 0.99u<sub>0</sub>. We know that for a point outside the boundary layer,
+Assume δ as the thickness where the streamwise velocity reaches 0.99u<sub>∞</sub>. We know that for a point outside the boundary layer,
 
 <center>
-<img src="./images/Eq6.png" style="width:20%;">
+<img src="./images/Eq1.png" style="width:20%;">
 </center>
 
-In the present case,  P<sub>0</sub> (y=∞) is constant,  u(y=∞)=u is constant, P is constant, and the velocity u  varies along the vertical distance. Therefore, we can rewrite the above equation for distance along the vertical direction as 
+In the present case, P(y=∞)=P<sub>0</sub> is the freestream total pressure which remains constant, u(y=∞)=u<sub>∞</sub> is the freestream velocity and it is also constant, P<sub>∞</sub> is the static pressure which remains constant throughout the flow including inside boundary layer, and the velocity u inside the boundary layer varies along the vertical distance from the surface. Therefore, we can rewrite the above equation for distance along the vertical direction as 
 
 <center>
-<img src="./images/Eq7.png" style="width:20%;">
+<img src="./images/Eq2.png" style="width:20%;">
 </center>
 
 Further,
 
 <center>
-<img src="./images/Eq8.png" style="width:20%;">
+<img src="./images/Eq3.png" style="width:20%;">
 </center>
 
-P<sub>∞</sub> is constant throughout the boundary layer. The total pressure can be measured using a pitot boundary layer probe. Therefore, the boundary layer displacement thickness can be estimated by replacing the velocity ratio in equations 1 with the above equation and using the Trapezoidal rule for integration.
+The total pressure can be measured using a pitot boundary layer probe. Therefore, the boundary layer displacement thickness and the momentum thickness can be estimated by using this velocity ratio and using the Trapezoidal rule for integration. 
 
-In this experiment we measure the total pressure (P) using a pitot probe. We first measure the pressure P<sub>0</sub> in the freestream and then measure P(y) by traversing the probe with the help of  a micrometer. We measure the boundary layer thickness at the point at which the P(y) is is equal to  P<sub>0</sub> corresponding to 0.95U<sub>∞</sub>.
+Boundary layer displacement thickness:
 
+<center>
+<img src="./images/Eq4.png" style="width:20%;">
+</center>
+
+The momentum thickness for an incompressible boundary layer: 
+
+
+<center>
+<img src="./images/Eq5.png" style="width:20%;">
+</center>
+
+In this experiment we first measure the pressure P<sub>0</sub> in the freestream and then measure P<sub>0</sub>(y)  by traversing the probe with the help of a micrometer. We measure the boundary layer thickness at the point at which the P<sub>0</sub>(y) is equal to P<sub>0</sub> corresponding to 0.99u<sub>∞</sub>.
 
 ## Apparatus
 
