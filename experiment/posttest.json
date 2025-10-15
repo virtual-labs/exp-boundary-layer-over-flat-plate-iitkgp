@@ -24,33 +24,33 @@
         "difficulty": "beginner"
       },
       {
-        "question": "In laminar boundary layer flow, the velocity profile is typically:",
+        "question": "The ratio of momentum thickness to displacement thickness (θ/δ<sup>i</sup>) is used to define:",
         "answers": {
-          "a": "Parabolic",
-          "b": "Exponential",
-          "c": "None of the above",
-          "d": "Both a and b"
+          "a": "Mach number",
+          "b": "Shape factor",
+          "c": "Reynolds number",
+          "d": "Drag coefficient"
         },
-        "correctAnswer": "a",
+        "correctAnswer": "b",
         "difficulty": "beginner"
       },
       {
-        "question": "The thickness of the laminar boundary layer is primarily influenced by:",
+        "question": "The thickness of the laminar boundary layer over a flat plate is primarily influenced by which factors?",
         "answers": {
-          "a": "Surface roughness",
-          "b": "Flow velocity",
-          "c": "Temperature gradient",
-          "d": "Reynolds number"
+          "a": "Plate material, surface roughness, and temperature",
+          "b": "Distance from the leading edge, free-stream velocity, and fluid viscosity",
+          "c": "Pressure difference between upper and lower surfaces of the plate",
+          "d": "Density variation with altitude"
         },
-        "correctAnswer": "d",
+        "correctAnswer": "b",
         "difficulty": "beginner"
       },
       {
-        "question": " The momentum thickness increases with:",
+        "question": "The momentum thickness increases with:",
         "answers": {
           "a": "Increasing boundary layer thickness",
           "b": "Decreasing fluid viscosity",
-          "c": "Increasing boundary layer thickness",
+          "c": "Decreasing boundary layer thickness",
           "d": "Decreasing Reynolds number"        
         },
         "correctAnswer": "a",
