@@ -1,0 +1,61 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "The streamwise velocity in the direction normal from the wall",
+        "answers": {
+          "a": " Decreases ",
+          "b": " Remains constant ",
+          "c": " Increases up to the freestream value ",
+          "d": " None of the above "
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "What happens to the thickness of the laminar boundary layer as distance along the surface increases?",
+        "answers": {
+          "a": "It increases",
+          "b": "It decreases",
+          "c": "Doesn’t change",
+          "d": "All the above"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The ratio of momentum thickness to displacement thickness (θ/δ<sup>i</sup>) is used to define:",
+        "answers": {
+          "a": "Mach number",
+          "b": "Shape factor",
+          "c": "Reynolds number",
+          "d": "Drag coefficient"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The thickness of the laminar boundary layer over a flat plate is primarily influenced by which factors?",
+        "answers": {
+          "a": "Plate material, surface roughness, and temperature",
+          "b": "Distance from the leading edge, free-stream velocity, and fluid viscosity",
+          "c": "Pressure difference between upper and lower surfaces of the plate",
+          "d": "Density variation with altitude"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The momentum thickness increases with:",
+        "answers": {
+          "a": "Increasing boundary layer thickness",
+          "b": "Decreasing fluid viscosity",
+          "c": "Decreasing boundary layer thickness",
+          "d": "Decreasing Reynolds number"        
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
